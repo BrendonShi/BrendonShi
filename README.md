@@ -4,7 +4,7 @@ Second Year | BSc (Hons) Computer Science
 
 ---
 
-## **Projects**
+## **Main Projects**
 
 * **To-Do List Website:**
   * [To-Do List Website](https://github.com/BrendonShi/To-Do-List-Website.git)
